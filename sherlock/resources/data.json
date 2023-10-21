@@ -327,13 +327,6 @@
     "urlMain": "https://www.cgtrader.com",
     "username_claimed": "blue"
   },
-  "CNET": {
-    "errorMsg": "null null - CNET",
-    "errorType": "message",
-    "url": "https://www.cnet.com/profiles/{}/",
-    "urlMain": "https://www.cnet.com/",
-    "username_claimed": "elliottcnet"
-  },
   "CTAN": {
     "errorType": "status_code",
     "url": "https://ctan.org/author/{}",
@@ -1237,13 +1230,6 @@
     "urlMain": "https://lobste.rs/",
     "username_claimed": "jcs"
   },
-  "Lolchess": {
-    "errorMsg": "No search results",
-    "errorType": "message",
-    "url": "https://lolchess.gg/profile/na/{}",
-    "urlMain": "https://lolchess.gg/",
-    "username_claimed": "blue"
-  },
   "LottieFiles": {
     "errorType": "status_code",
     "url": "https://lottiefiles.com/{}",
@@ -2101,13 +2087,6 @@
     "errorType": "status_code",
     "url": "https://vimeo.com/{}",
     "urlMain": "https://vimeo.com/",
-    "username_claimed": "blue"
-  },
-  "Virgool": {
-    "errorMsg": "\u06f4\u06f0\u06f4",
-    "errorType": "message",
-    "url": "https://virgool.io/@{}",
-    "urlMain": "https://virgool.io/",
     "username_claimed": "blue"
   },
   "VirusTotal": {

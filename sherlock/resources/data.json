@@ -334,6 +334,7 @@
     "username_claimed": "briggs"
   },
   "Caddy Community": {
+    
     "errorType": "status_code",
     "url": "https://caddy.community/u/{}/summary",
     "urlMain": "https://caddy.community/",

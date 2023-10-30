@@ -34,7 +34,9 @@ $ cd sherlock
 # install the requirements
 $ python3 -m pip install -r requirements.txt
 ```
-
+# About
+This is a forked repo. It gives the user accounts for any user ID you specify. I want to understand how it works, so I will keep making changes to the code, so do not use this one. Fork from the original repo to use. 
+Once I add some exciting features, I will make a PR.
 ## Usage
 
 ```console
